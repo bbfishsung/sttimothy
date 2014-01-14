@@ -1,4 +1,4 @@
 sttimothy
 =========
 
-Projects for St. Timothy church
+This is the git repository for St. Timothy church projects.
