@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-DevMode</actionName>
+            <displayName>DevMode</displayName>
+            <goals>
+                <goal>gwt:debug</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-RunMode</actionName>
+            <displayName>RunMode</displayName>
+            <goals>
+                <goal>gwt:run</goal>
+            </goals>
+        </action>
+    </actions>
