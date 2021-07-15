@@ -4,7 +4,7 @@
 
     <groupId>org.sttimothy.finance</groupId>
     <artifactId>finance</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>Finance</name>
     <description>Finance management for St. Timothy church</description>
